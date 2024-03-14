@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MacroRegAddressLib><MacroRegAddress Name="inter_miest" OperationMode="1" DataType="unsigned short" ArrayNumber="8"><Address Function="inter_miest" UseIndexAddr="0" ImportTag="No"><RegAddr MasterValue="1010" SlaveValue="0" MasterValueType="2" WordCount="1"><HMIID UsagePort="0">0</HMIID><PLCID PLCGEID="113291140">1</PLCID><AddressType SystemID="4" bPLCLabelAddr="0">4X</AddressType><AddressValue Type="Word" Length="1" CodeType="0">1010</AddressValue><Priority>Normal</Priority></RegAddr></Address></MacroRegAddress></MacroRegAddressLib>
